@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d0176d3-8423-4736-bde7-ac9befb09fb7" name="Default" comment="">
+      <change afterPath="$USER_HOME$/.PyCharm2017.2/config/options/cachedDictionary.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/databaseDrivers.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/debugger.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/editor.codeinsight.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/ide.general.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/laf.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/options.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/packages.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/project.default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/py_sdk_settings.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/stubIndex.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/updates.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/.idea/pilha-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/css/landing-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/css/landing-page.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/apres1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/apres2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/apres3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/foto1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/foto2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/foto3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/foto4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/foto5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/icon6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/img/logo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/materialpilhacoworking/material texto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/materialpilhacoworking/site-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_call-to-action.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_masthead.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_showcase.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_testimonials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/scss/landing-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../pilhacoworking/pilha-master/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change beforePath="$USER_HOME$/README.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/coursera$functionsoma.coverage" NAME="functionsoma Coverage Results" MODIFIED="1541701920520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5" />
+    <SUITE FILE_PATH="coverage/coursera$fatorial.coverage" NAME="fatorial Coverage Results" MODIFIED="1541703561014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="coursera" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fatorial.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/fatorial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/temperatura.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/conversaodenumeros.py" />
+        <option value="$PROJECT_DIR$/valorAeB.py" />
+        <option value="$PROJECT_DIR$/valorauxAeB.py" />
+        <option value="$PROJECT_DIR$/conversaodesegundos.py" />
+        <option value="$PROJECT_DIR$/mediaaritmetica.py" />
+        <option value="$PROJECT_DIR$/perimetroeareaquadrado.py" />
+        <option value="$PROJECT_DIR$/raizquadrada.py" />
+        <option value="$PROJECT_DIR$/parouimpar.py" />
+        <option value="$PROJECT_DIR$/divisiivelpor5.py" />
+        <option value="$PROJECT_DIR$/divisivelpor3.py" />
+        <option value="$PROJECT_DIR$/divisivelpor3e5.py" />
+        <option value="$PROJECT_DIR$/crescente.py" />
+        <option value="$PROJECT_DIR$/potencia.py" />
+        <option value="$PROJECT_DIR$/fimzero.py" />
+        <option value="$PROJECT_DIR$/decrescente.py" />
+        <option value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/crescente.py" />
+        <option value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/functionsoma.py" />
+        <option value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/function.py" />
+        <option value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/fatorial.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="142" />
+    <option name="y" value="27" />
+    <option name="width" value="1224" />
+    <option name="height" value="708" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="coursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="introducao_a_ciencia_computacao_parte1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coursera" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coursera" type="462c0819:PsiDirectoryNode" />
+              <item name="introducao_a_ciencia_computacao_parte1" type="462c0819:PsiDirectoryNode" />
+              <item name="semana5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="coursera" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="coursera" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.fatorial">
+    <configuration name="crescente" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crescente.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="divisivelpor3e5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/divisivelpor3e5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fatorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/fatorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="fimzero" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fimzero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="functionsoma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/function.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.divisivelpor3e5" />
+      <item itemvalue="Python.crescente" />
+      <item itemvalue="Python.fimzero" />
+      <item itemvalue="Python.functionsoma" />
+      <item itemvalue="Python.fatorial" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fatorial" />
+        <item itemvalue="Python.functionsoma" />
+        <item itemvalue="Python.fimzero" />
+        <item itemvalue="Python.crescente" />
+        <item itemvalue="Python.divisivelpor3e5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0176d3-8423-4736-bde7-ac9befb09fb7" name="Default" comment="" />
+      <created>1492345698851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492345698851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="708" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4848255" weight="0.33848533" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5008503" side_tool="true" visible="true" weight="0.3445826" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" x="304" y="312" width="1062" height="302" id="Python Console" order="9" sideWeight="0.7352049" type="WINDOWED" weight="0.33802816" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.670068" weight="0.32730016" />
+      <window_info anchor="bottom" x="22" y="249" width="1344" height="353" id="Terminal" order="11" sideWeight="0.49697885" type="WINDOWED" weight="0.32924962" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4738041" visible="true" weight="0.20485584" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5261959" side_tool="true" weight="0.36933535" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49914965" weight="0.34238312" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" show_stripe_button="false" weight="0.32924962" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.32930514" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/temperatura.py</url>
+          <line>2</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/fatorial.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" log-message="true" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/divisivelpor3.py" />
+    <entry file="file://$PROJECT_DIR$/divisivelpor3e5.py" />
+    <entry file="file://$PROJECT_DIR$/crescente.py" />
+    <entry file="file://$PROJECT_DIR$/parouimpar.py" />
+    <entry file="file://$PROJECT_DIR$/divisiivelpor5.py" />
+    <entry file="file://$PROJECT_DIR$/divisivelpor3.py" />
+    <entry file="file://$PROJECT_DIR$/divisivelpor3e5.py" />
+    <entry file="file://$PROJECT_DIR$/crescente.py" />
+    <entry file="file://$PROJECT_DIR$/raizquadrada.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/temperatura" />
+    <entry file="file://$PROJECT_DIR$/conversaodenumeros.py" />
+    <entry file="file://$PROJECT_DIR$/exportToHTML/perimetroeareaquadrado.py.html" />
+    <entry file="file://$PROJECT_DIR$/valorauxAeB.py" />
+    <entry file="file://$PROJECT_DIR$/soma.py" />
+    <entry file="file://$PROJECT_DIR$/mediaaritmetica.py" />
+    <entry file="file://$PROJECT_DIR$/perimetroeareaquadrado.py" />
+    <entry file="file://$PROJECT_DIR$/temperatura.py" />
+    <entry file="file://$PROJECT_DIR$/valorAeB.py" />
+    <entry file="file://$PROJECT_DIR$/raizquadrada.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/divisivelpor3e5.py" />
+    <entry file="file://$PROJECT_DIR$/divisivelpor3.py" />
+    <entry file="file://$PROJECT_DIR$/divisiivelpor5.py" />
+    <entry file="file://$PROJECT_DIR$/parouimpar.py" />
+    <entry file="file://$PROJECT_DIR$/conversaodesegundos.py" />
+    <entry file="file://$PROJECT_DIR$/potencia.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1014" selection-start-line="1014" selection-end-line="1014" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fimzero.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
+    <entry file="file://$PROJECT_DIR$/crescente.py" />
+    <entry file="file://$PROJECT_DIR$/decrescente.py" />
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/conversaodenumeros.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/conversaodesegundos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/valorauxAeB.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/valorAeB.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/crescente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/soma.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/introducao_a_ciencia_computacao_parte1/semana5/fatorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
