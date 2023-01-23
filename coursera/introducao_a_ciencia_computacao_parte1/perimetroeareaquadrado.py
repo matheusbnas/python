@@ -1,9 +1,7 @@
-x = input("valor de x: ")
-y = input("valor de y: ")
+largura = int(input("Digite a largura do quardado: "))
 
-x=y
-x= (int(x)*4)
+x = ((largura)*4)
 
-y= (int(y)**2)
+y = ((largura)**2)
 
 print("perímetro:", x ,"- área:", y)

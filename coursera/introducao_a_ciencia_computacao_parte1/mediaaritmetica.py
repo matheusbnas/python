@@ -1,7 +1,7 @@
-primeiranota=input("nota A:")
-segundanota=input("nota B:")
-terceiranota=input("nota C:")
-quartanota=input("nota D:")
+primeiranota=input("Digite a primeira nota:")
+segundanota=input("Digite a segunda nota:")
+terceiranota=input("Digite a terceira nota:")
+quartanota=input("Digite a quarta nota:")
 
 A=float(primeiranota)
 B=float(segundanota)
