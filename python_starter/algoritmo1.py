@@ -2,8 +2,6 @@
 
 def atravessar_rua(nome, idade):
 
-    idade = int(input('Qual sua idade: '))
-
     if idade >= 18:
         return f'Pode atravessar {nome}.'
     elif  idade <= 14:
@@ -11,5 +9,7 @@ def atravessar_rua(nome, idade):
     else:
         return f'Pode atravessar {nome}, mas sempre alguém por perto'
 
-atravessar = atravessar_rua('Matheus', id)
+n = str(input('Dia seu nome: '))
+id = int(input('Identifique sua idade: '))
+atravessar = atravessar_rua(n, id)
 print(atravessar)
