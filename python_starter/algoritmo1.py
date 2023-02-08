@@ -1,16 +1,15 @@
 #Atravessar rua
 
-def atravessar_rua(adulto, crianca):
+def atravessar_rua(nome, idade):
 
-    idade = {adulto: 30, crianca: 7}
+    idade = int(input('Qual sua idade: '))
 
-    if idade > 18:
-        return 'Pode atravessar'
-    elif  7 < idade < 18:
-        return 'Pode atravessar, mas sempre alguém por perto'
+    if idade >= 18:
+        return f'Pode atravessar {nome}.'
+    elif  idade <= 14:
+        return f'Jamais atravesse sozinho(a) {nome}'
     else:
-        return 'Jamais atravesse sozinha'
+        return f'Pode atravessar {nome}, mas sempre alguém por perto'
 
-
-atravessar = atravessar_rua(adulto=str, crianca=str)
+atravessar = atravessar_rua('Matheus', id)
 print(atravessar)
