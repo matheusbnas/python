@@ -6,8 +6,8 @@ num1 = float(input('Entre com um número: '))
 num2 = float(input('Entre com um número: '))
 operacao = {
          0 : 'soma', 
-         1 : 'multiplicacao', 
-         2 : 'subtracao', 
+         1 : 'subtracao', 
+         2 : 'multiplicacao', 
          3 : 'divisao',
          4 : 'exponenciacao',
         }
