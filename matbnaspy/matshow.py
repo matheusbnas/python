@@ -1,5 +1,5 @@
 """Simple matshow() example."""
-from matplotlib.pylab import *
+from matplotlib.pyplot import *
 
 
 def samplemat(dims):
