@@ -24,18 +24,14 @@ def fazer_compras(ovos):
             print(f'Comprei os {ovos} ovos. Agora posso ir para casa.')
     
 
-    for caixa_ovos in (cartela_ovos):
-        print(caixa_ovos)
-
-    return fazer_bolo(cartela_ovos, tempo = 0)
+    return fazer_bolo(cartela_ovos, tempo)
 
 def fazer_bolo(caixa_ovos, tempo):
 
     if caixa_ovos == []:
         return print(f'caixa de ovos {caixa_ovos} em falta.')
     else: 
-        tempo_total_cozimento = 45
-        while tempo < tempo_total_cozimento:
+        while tempo:
             tempo += 1
             if tempo == 15:
                 print()
@@ -50,6 +46,7 @@ def fazer_bolo(caixa_ovos, tempo):
                 print(f'Tempo atual de cozimento: {tempo} minutos.')
                 print('Bolo está pronto :)')
 ovos = int(input("Quantos ovos há na geladeira: "))
+tempo = int(input("tempo de cozimento para preparar o bolo? "))
 abrir_geladeira(ovos)
 
 
