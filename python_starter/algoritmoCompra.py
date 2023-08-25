@@ -23,9 +23,6 @@ def fazer_compras(ovos):
             print("......Indo para casa......")
             print(f'Comprei os {ovos} ovos. Agora posso ir para casa.')
     
-    caixa_ovos = len(cartela_ovos)
-    print(caixa_ovos)
-    print()
 
     for caixa_ovos in (cartela_ovos):
         print(caixa_ovos)
