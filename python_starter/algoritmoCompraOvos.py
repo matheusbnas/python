@@ -10,16 +10,16 @@ def abrir_geladeira(qtd_ovos):
 
 #comprar ovos se a qtd de ovos for menor que 8.
 def fazer_compras(ovos):
+    print("----Pegar a carteira.....")
     print("......fazendo compras......")
     print('Enquanto isso vou comprando ovos no mercado.')
     print()
 
     cartela_ovos = []
-    while ovos < 8 and ovos > 0:
+    while ovos < 8:
         ovos += 1
-        cartela_ovos.append(ovos)
-        print(cartela_ovos)
         if ovos == 8:
+            qtd_ovos_comprados = 0
             print("......Indo para casa......")
             print(f'Comprei os {ovos} ovos. Agora posso ir para casa.')
     
@@ -28,7 +28,7 @@ def fazer_compras(ovos):
 
 def fazer_bolo(caixa_ovos, tempo):
 
-    if caixa_ovos == []:
+    if caixa_ovos == 8:
         return print(f'caixa de ovos {caixa_ovos} em falta.')
     else: 
         while tempo:
