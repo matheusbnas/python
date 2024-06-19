@@ -1,3 +1,4 @@
+#AlgoritmoComprarOvos
 #Abrir a geladeira
 def abrir_geladeira(qtd_ovos):
 
@@ -45,6 +46,7 @@ def fazer_bolo(caixa_ovos, tempo):
                 print()
                 print(f'Tempo atual de cozimento: {tempo} minutos.')
                 print('Bolo está pronto :)')
+                
 ovos = int(input("Quantos ovos há na geladeira: "))
 tempo = int(input("tempo de cozimento para preparar o bolo? "))
 abrir_geladeira(ovos)
