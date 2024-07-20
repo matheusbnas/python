@@ -1,3 +1,3 @@
 # python
 
-Projeto Python para estudos. 
+Projeto Python para estudos do básico ao avançado
